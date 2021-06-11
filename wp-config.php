@@ -20,8 +20,8 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 
-$db_user = 'mysql';
-$db_password = 'mysql';
+$db_user = 'root';
+$db_password = 'root';
 $db_name = 'ZSgmeuyOEb';
 $db_host = 'remotemysql.com';
 
