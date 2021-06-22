@@ -23,7 +23,7 @@
 $db_user = 'root';
 $db_password = 'root';
 $db_name = 'ZSgmeuyOEb';
-$db_host = 'remotemysql.com';
+$db_host = 'localhost';
 
 if ($_SERVER['HTTP_HOST'] !== 'PC-Assembly.local') {
 	$db_user = 'ZSgmeuyOEb';
